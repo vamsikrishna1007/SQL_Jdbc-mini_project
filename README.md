@@ -8,4 +8,12 @@ Import the packages:
 This requires that you include the packages containing the JDBC classes needed for 
 database programming. Most often, using import java.sql.* .
 <!--  -->
-Register the JDBC driver:
+Register the JDBC driver
+<!--  -->
+Open a connection
+<!--  -->
+Execute a query
+<!--  -->
+Extract data from result set while(rs.next())
+<!--  -->
+Clean­up environment 
